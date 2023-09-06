@@ -1,0 +1,24 @@
+.login{
+    background-color: rgba(200, 200, 200, 0.65);
+    font-size:larger;
+    font-style: normal;
+    font-family:sans-serif;
+    text-align: center;
+    border-radius: 10px;
+
+}
+body{
+    background-image:url(lions.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgb(201, 152, 47);
+    background-size: 100% 100%;
+    background-size: cover;
+}
+p{
+    background-color: rgb(245, 175, 90);
+    font-size: xx-large;
+    text-align: center;
+}
+
